@@ -1,12 +1,14 @@
-## FINDING IDEAS
+## Finding Areas
 
-```sh
+```
 Find a research topic for a PhD in the area of INPUT
 ```
 
-## TITLE
+## Title
 
-`Suggest 5 titles for the following abstract: INPUT`
+```
+Suggest 5 titles for the following abstract: INPUT
+```
 
 # INTRODUCTION
 
