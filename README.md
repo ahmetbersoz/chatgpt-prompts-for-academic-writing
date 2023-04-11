@@ -1,8 +1,10 @@
-# FINDING IDEAS
+## FINDING IDEAS
 
-`Find a research topic for a PhD in the area of INPUT`
+```sh
+Find a research topic for a PhD in the area of INPUT
+```
 
-# TITLE
+## TITLE
 
 `Suggest 5 titles for the following abstract: INPUT`
 
