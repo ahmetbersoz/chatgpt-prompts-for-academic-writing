@@ -8,7 +8,7 @@ Use directly in: [chat.openai.com](https://chat.openai.com)
 
 The list is regularly updated, so you can keep track of new prompts by following this repository.
 
-> **TIPS:** As there is a limit to the number of keywords that can be used in ChatGPT, you can input your text multiple times using the prompt "Read this [PARAPGRAHS]:" and then run your final prompt "Considering the above text...".
+> **TIPS:** As there is a limit to the number of words that can be used in ChatGPT, you can input your text multiple times using the prompt "Read this [PARAPGRAHS]:" and then run your final prompt "Considering the above text...".
 
 ## BRAINSTORMING
 
