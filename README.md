@@ -17,7 +17,7 @@ Find a research topic for a PhD in the area of [TOPIC]
 ```
 
 ```
-Write a detailed proposal on the following research topic. Make Sure it is free from plagiarism. [PARAGPRAH]
+Write a detailed proposal on the following research topic. Make Sure it is free from plagiarism. [PARAGRAPH]
 ```
 
 ```
@@ -61,7 +61,7 @@ Provide 5 keywords for this: [PARAGRAPHS]
 ### Abstract
 
 ```
-Generate an abstract for a scientific paper based on this information for: [PARAPGRAPHS]
+Generate an abstract for a scientific paper based on this information for: [PARAGRAPHS]
 ```
 
 ### Outline
@@ -87,7 +87,7 @@ Conduct a literature review on [TOPIC SENTENCE] and provide review paper referen
 ```
 
 ```
-Provide me with references and links to papers in [PARAPGRAH]
+Provide me with references and links to papers in [PARAPGRAPH]
 ```
 
 > **NOTE:** Be careful and double check article existence, ChatGPT may generate fake references
@@ -101,7 +101,7 @@ Write this in standart Harvard referencing [PARAGRAPH]
 ```
 
 ```
-Compare and contrast [THEORY1] and [THEORY2] in the context of [DOMAIN]:
+Compare and contrast [THEORY1] and [THEORY2] in the context of [RESEARCH DOMAIN]:
 ```
 
 ### Methodology
@@ -115,7 +115,7 @@ Write a detailed methodology for the topic: [TOPIC SENTENCE]
 ```
 
 ```
-Analyze the strengths and weaknesses of this methodology: [PARAGPRAHS]
+Analyze the strengths and weaknesses of this methodology: [PARAGRAPHS]
 ```
 
 ```
@@ -157,7 +157,7 @@ Write a result section for the following paragraphs. Please write this in third 
 ### Discussion
 
 ```
-Discuss this results: [RESULT PARAPGRAHS]
+Discuss this results: [RESULT PARAGRAPHS]
 ```
 
 ### Conclusion
@@ -167,7 +167,7 @@ Generate a conclusion for this: [PARAGRAPHS]
 ```
 
 ```
-Give recommendations and conclusion for: [PARAPGRAPHS]
+Give recommendations and conclusion for: [PARAGRAPHS]
 ```
 
 ### Future Works
@@ -263,11 +263,11 @@ Expand these notes: [PARAGRAPH]
 ```
 
 ```
-Provide me a list of words and phrases which were repeatedly / more than 3 times used: [PARAGPRAHS]
+Provide me a list of words and phrases which were repeatedly / more than 3 times used: [PARAGRAPHS]
 ```
 
 ```
-Provide me a list of synonyms for [PARAGRAPH] and evaluate them in the context of [PARAGPRAH]
+Provide me a list of synonyms for [PARAGRAPH] and evaluate them in the context of [PARAGRAPH]
 ```
 
 ```
@@ -313,7 +313,7 @@ Summarize the text by extracting the most important information in the form of b
 ```
 
 ```
-Explain this again but simpler: [PARAGPRAHS]
+Explain this again but simpler: [PARAGRAPHS]
 ```
 
 ```
@@ -339,7 +339,7 @@ The deadline for the submission of first draft is [DATE]. give me a week-by-week
 ```
 
 ```
-Write a sensational press release for this research: [PARAPGRAPHS]
+Write a sensational press release for this research: [PARAGRAPHS]
 ```
 
 ```
