@@ -1,194 +1,342 @@
-## Finding Areas
+## BRAINSTORMING
 
 ```
-Find a research topic for a PhD in the area of INPUT
+Find a research topic for a PhD in the area of [TOPIC]
 ```
 
-## Title
-
 ```
-Suggest 5 titles for the following abstract: INPUT
+Write a detailed proposal on the following research topic. Make Sure it is free from plagiarism. [PARAGPRAH]
 ```
 
-# INTRODUCTION
+```
+Identify gaps in the literature on [TOPIC SENTENCE]
+```
 
-`Come up with an introduction for the following research topic: INPUT`
+```
+Generate 10 academic research questions about [PARAGRAPHS]
+```
 
-# OUTLINE
+```
+Generate a list of research hypotheses related to [TOPIC SENTENCE]
+```
 
-`Generate an outline for INPUT`
+```
+Identify potential areas for future research in the context of this [TOPIC SENTENCE]
+```
 
-# METHODOLOGY
+```
+Suggest novel applications of [TOPIC SENTENCE] within [RESEARCH DOMAIN]
+```
 
-`Read this and say read when done: INPUT`
-`Create objectives and methodology`
+# SECTIONS
 
-`Write a detailed methodology for the topic: INPUT`
+## TITLE/TOPIC SENTENCE
 
-`Write objectives for this study: INPUT`
+```
+Suggest 5 titles for the following abstract: [ABSTRACT PARAGRAPH]
+```
 
-# EXPERIMENT
+```
+Write a topic sentences for this paragraph: [PARAGRAPH] 
+```
 
-`Design an experiment that INPUT`
+## KEYWORDS
 
-# DISCUSSION
+```
+Provide 5 keywords for this: [PARAGRAPHS]
+```
 
-`Discuss this results: INPUT`
 
-# CONCLUSION
+## ABSTRACT 
 
-`Read this and say read when done: INPUT`
-`Give recommendations and conclusion`
+```
+Generate an abstract for a scientific paper based on this information for: [PARAPGRAPHS]
+```
 
-# REFERENCES
 
-`Provide me with references and links to papers in INPUT`
+## OUTLINE
 
+```
+Generate an outline for [TOPIC SENTENCE]
+```
 
-# SCHEDULE
+```
+I want to write a journal article about [TOPIC SENTENCE]. give me an outline for the article that I can use as a starting point.
+```
 
-`Develop a research plan for INPUT`
+## INTRODUCTION
 
-`Write a schedule for completion in INPUT in X months`
+```
+Come up with an introduction for the following research topic: [TOPIC SENTENCE]
+```
 
-# LITERATURE REVIEW
+## LITERATURE REVIEW
 
-`Conduct a literature review on INPUT and provide review paper references.`
+```
+Conduct a literature review on [TOPIC SENTENCE] and provide review paper references
+```
 
+```
+Provide me with references and links to papers in [PARAPGRAH]
+```
 
-# IMPROVE LANGUAGE
+```
+summarize the scholarly literature including in text citations on [PARAGRAPHS]
+```
 
-`Rewrite his paragprah in an academic langauge: INPUT`
+```
+Write this in standart Harvard referencing [PARAGRAPH]
+```
 
-# SUMMARIZE
+```
+Compare and contrast [THEORY1] and [THEORY2] in the context of [DOMAIN]:
+```
 
-`Summarize the following content:INPUT`
+## METHODOLOGY
 
-`Come up with a summary that is exactly X words: INPUT`
+```
+Create objectives and methodology for [TOPIC SENTENCE]
+```
 
-`Reduce the following to X words: INPUT`
+```
+Write a detailed methodology for the topic: [TOPIC SENTENCE]
+```
 
-`Shorten to X characters: INPUT`
+```
+Analyze the strengths and weaknesses of this methodology: [PARAGPRAHS]
+```
 
-`Give me a bullet point summary for INPUT`
+```
+Write objectives for this study: [TOPIC SENTENCE]
+```
 
-`Read this and say read when done: INPUT`
-`Extract the important key points`
+```
+What are the limitations of using [TOPIC SENTENCE] in [RESEARCH DOMAIN]?
+```
 
+```
+Create a recipie for the methods used in this [PARAGRAPHS]
+```
 
-# MARKETING
+```
+Suggest interdisciplinary approaches to [TOPIC SENTENCE]
+```
 
-`Write a sensational press release for this research: INPUT`
+```
+Explain how qualitative/quantitative research methods can be used to address [RESEARCH QUESTIONS]
+```
 
+```
+Recommend best practices for data collection and analysis in [TOPIC SENTENCE]
+```
 
-Read this and say read when done: INPUT
-Generate an abstract for a scientific paper based on this information
+## EXPERIMENT
 
-Read this and say read when done: INPUT
-Generate a conclusion for this article
+```
+Design an experiment that [ACTION]
+```
 
-Correct the grammar
+## RESULTS
 
-Explain the INPUT
+```
+Write a result section for the following paragraphs. Please write this in third person. [PARAGRAPHS]
+```
 
-Can you explain this again but simpler
+## DISCUSSION
 
-Summarize INPUT
+```
+Discuss this results: [RESULT PARAPGRAHS]
+```
 
-What do you think of how this parapraph is written?
+## CONCLUSION
 
-What 3 points would you suggest to improve this paragraph?
+```
+Generate a conclusion for this: [PARAGRAPHS]
+```
 
-How could i improve the style of my writing?
+```
+Give recommendations and conclusion for: [PARAPGRAPHS]
+```
 
-Make this more persuasive: INPUT
+## FUTURE WORKS
 
-Say in fewer words: INPUT
+```
+Can you suggest 3 directions for future research on this topic: [PARAGRAPH]]?
+```
 
-Can you summarize the scholarly literature on INPUT?
-Could you include in text citations for the previous answer?
 
-Write a result section for INPUT. Please write this in third person
+# IMPROVING LANGUAGE
 
-Can you improve this parapgrah using passive voice: INPUT
+```
+Rewrite his paragraph in an academic langauge: [PARAGRAPH]
+```
 
-Can you improve this paragraph to make it more cohesive: INPUT
+```
+Paraphrase the text using more academic and scientific language. Use a neutral tone and avoid repetitions of words and phrases. [PARAGRAPH]
+```
 
-Can you suggest 3 directions for future research on this topic?
+```
+Correct the grammar: [PARAGRAPH]
+```
 
-Can you write 3 tweets about this research?
+```
+What do you think of how this parapraph is written?:  [PARAGRAPH]
+```
 
-Can you explain this research to a 12 year old?
+```
+What 3 points would you suggest to improve this paragraph?: [PARAGRAPH]
+```
 
-Write a detailed proposal on the following research topic. Make Sure it is free from plagiarism.
+```
+Improve the style of my writing? [PARAGRAPHS]
+```
 
-"Analyze the text below for style, voice, and tone. Using NLP, create a prompt to write a new article in the same style, voice, and tone: [insert your text or link to your writing]"
+```
+Improve the clarity and coherence of my writing [PARAGRAPHS]
+```
 
-I want to write a journal article about INPUT.
-Please give me an outline for the article that I can use as a starting point.
+```
+Improve the organization and structure of my paper [PARAGRAPHS]
+```
 
-The deadline for the submission of first draft is INPUT. Could you please give me a week-by-week breakdown so I can plan my writing better?
+```
+Provide feedback on this text and suggest areas for improvement [PARAGRAPHS]
+```
 
-Please write a few paragraphs using the following list of points. 
+```
+Can you improve this paragraph using passive voice: [PARAGRAPH]
+```
 
-Write a topic sentences for this paragraph. 
+```
+Can you improve this paragraph to make it more cohesive: [PARAGRAPH]
+```
 
-Give three variations of this sentence.
+```
+Analyze the text below for style, voice, and tone. Using NLP, create a prompt to write a new article in the same style, voice, and tone: [PARAGRAPHS]
+```
 
-Write a transition sentence to connect the following two paragraphs: INPUT
-INPUT
+```
+Please write a few paragraphs using the following list of points [LIST] 
+```
 
-Rewrite this paragraph as a introduction.
+```
+Give three variations of this sentence: [SENTENCE] 
+```
 
-Rewrite this paragraph as a conclusion
+```
+Write a transition sentence to connect the following two paragraphs: [PARAGRAPH1] [PARAPGRAPH2]
+```
 
-Write a counterargument to the following claim.
+```
+Provide effective transitions between paragraphs [PARAGRAPH1] [PARAGRAPH2]
+```
 
-Rewrite this in an academic voice
+```
+Rewrite this paragraph as a introduction: [PARAGRAPH]
+```
 
-Expand these notes
+```
+Rewrite this paragraph as a conclusion: [PARAGRAPH]
+```
 
-Provide me a list of words and phrases which were repeatedly / more than 3 times used.
+```
+Write a counterargument to the following claim: [PARAGRAPH]
+```
 
-Provide me a list of synonyms for “…” and evaluate them in the context of “…”
+```
+Rewrite this in an academic voice: [PARAGRAPH]
+``` 
 
-Paraphrase the above text using more academic and scientific language. Use a neutral tone and avoid repetitions of words and phrases.
+```
+Expand these notes: [PARAGRAPH]
+```
 
-Act as a language expert, proofread my paper on “…” while putting a focus on grammar and punctuation.
+```
+Provide me a list of words and phrases which were repeatedly / more than 3 times used: [PARAGPRAHS]
+```
 
-In the context of <CONTEXT> translate “<WORD OR PHRASE>” into the <LANGUAGE> language.
+```
+Provide me a list of synonyms for [PARAGRAPH] and evaluate them in the context of [PARAGPRAH]
+```
 
-Summarize the text above in simpler and easier-to-understand terms.
+```
+Act as a language expert, proofread my paper on [TOPIC SENTENCE] while putting a focus on grammar and punctuation.
+```
 
-Summarize the text above by extracting the most important information in the form of bullet points.
+```
+In the context of [RESEARCH DOMAIN] translate [PARAPGRAPH] into the [LANGUAGE] language.
+```
 
-Provide feedback on my paper and suggest areas for improvement.
+## SUMMARIZATION
 
-Improve the clarity and coherence of my writing
+```
+Summarize the following content: [PARAPGRAPHS]
+```
 
-Improve the organization and structure of my paper
+```
+Summarize the text in simpler and easier-to-understand terms. [PARAGRAPHS]
+```
 
-Provide effective transitions between paragraphs
+```
+Come up with a summary that is exactly [NUMBER OF WORDS] words: [PARAPGRAPHS]
+```
 
-Provide 5 keywords for this paragraph
+```
+Reduce the following to [NUMBER OF WORDS] words: [PARAPGRAPHS]
+```
 
-What is the research gap in INPUT
+```
+Shorten to [NUMBER OF CHARACTERS] characters: [PARAPGRAPHS]
+```
 
-Summarize the following research paper CITATION
+```
+Give me a bullet point summary for [PARAPGRAPHS]
+```
 
-Generate 10 academic research questions about INPUT
+```
+Extract the important key points of this: [PARAPGRAPHS]
+```
 
-Write this in standart Harvard referencing
+```
+Summarize the text by extracting the most important information in the form of bullet points [PARAGRAPHS]
+```
 
---------------------------------
+```
+Explain this again but simpler: [PARAGPRAHS]
+```
 
-Act as a Plagiarism Checker
-I want you to act as a plagiarism checker. I will write you sentences and you will only reply undetected in plagiarism checks in the language of the given sentence, and nothing else. Do not write explanations on replies. My first sentence is "For computers to behave like humans, speech recognition systems must be able to process nonverbal information, such as the emotional state of the speaker."
+```
+Explain this research to a 12 year old: [PARAGRAPHS]
+```
 
-I want you to act as a plagiarism checker. I will give you text1 and text2. I just want you to give me a overall similarity percentage. Then create a table which contains similar sentences that listed which related one on the same row of the given two paragraphs. Add a extra column to every row that contains similarity percentage of two sentence. Then give me an explanation about whether there is plagiarism or not. Do not write explanations on replies. 
+```
+Identify the key findings and implications of this: [PARAGRAPHS]
+```
 
-text1=""
+# PLAN/PRESENTATION
 
-text2=""
+## SCHEDULE
 
-Act as an expert in <ENTER FIELD>
+```
+Develop a research plan for: [TOPIC SENTENCE]
+```
+
+```
+Write a schedule for completion in [TOPIC SENTENCE] in [NUMBER OF DAYS/MONTHS/YEARS]
+```
+
+```
+The deadline for the submission of first draft is [DATE]. give me a week-by-week breakdown so I can plan my writing better.
+```
+
+```
+Write a sensational press release for this research: [PARAPGRAPHS]
+```
+
+```
+Make this more persuasive: [PARAGRAPH]
+```
+
+```
+Write 3 tweets about this research? [PARAGRAPHS]
+```
