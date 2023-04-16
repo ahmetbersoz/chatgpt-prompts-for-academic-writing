@@ -1,7 +1,10 @@
-This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. Whether you're a student, researcher, or academic professional, these prompts can help you hone your writing abilities and tackle your writing projects with confidence. The list is regularly updated, so you can keep track of new prompts by following this repository. 
+This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. Whether you're a student, researcher, or academic professional, these prompts can help you hone your writing abilities and tackle your writing projects with confidence. 
 
-The list continously updated, you can follow for the new prompts.
+Use directly in: [chat.openai.com](https://chat.openai/com)
 
+The list is regularly updated, so you can keep track of new prompts by following this repository.
+
+> **TIPS:** As there is a limit to the number of keywords that can be used in ChatGPT, you can input your text multiple times using the prompt "Read this [PARAPGRAHS]:" and then run your final prompt "Considering the above text...".
 
 ## BRAINSTORMING
 
@@ -83,8 +86,10 @@ Conduct a literature review on [TOPIC SENTENCE] and provide review paper referen
 Provide me with references and links to papers in [PARAPGRAH]
 ```
 
+> **NOTE:** Be careful and double check article existence, ChatGPT may generate fake references
+
 ```
-summarize the scholarly literature including in text citations on [PARAGRAPHS]
+Summarize the scholarly literature including in text citations on [PARAGRAPHS]
 ```
 
 ```
