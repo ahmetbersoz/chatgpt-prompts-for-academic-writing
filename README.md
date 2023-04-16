@@ -4,7 +4,7 @@
 
 This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. Whether you're a student, researcher, or academic professional, these prompts can help you hone your writing abilities and tackle your writing projects with confidence. 
 
-Use directly in: [chat.openai.com](https://chat.openai/com)
+Use directly in: [chat.openai.com](https://chat.openai.com)
 
 The list is regularly updated, so you can keep track of new prompts by following this repository.
 
