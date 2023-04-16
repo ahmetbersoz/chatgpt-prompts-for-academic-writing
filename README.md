@@ -4,9 +4,9 @@
 Find a research topic for a PhD in the area of [TOPIC]
 ```
 
-```
+`
 Write a detailed proposal on the following research topic. Make Sure it is free from plagiarism. [PARAGPRAH]
-```
+`
 
 ```
 Identify gaps in the literature on [TOPIC SENTENCE]
