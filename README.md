@@ -1,12 +1,17 @@
-# BRAINSTORMING
+This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. Whether you're a student, researcher, or academic professional, these prompts can help you hone your writing abilities and tackle your writing projects with confidence. The list is regularly updated, so you can keep track of new prompts by following this repository. 
+
+The list continously updated, you can follow for the new prompts.
+
+
+## BRAINSTORMING
 
 ```
 Find a research topic for a PhD in the area of [TOPIC]
 ```
 
-`
+```
 Write a detailed proposal on the following research topic. Make Sure it is free from plagiarism. [PARAGPRAH]
-`
+```
 
 ```
 Identify gaps in the literature on [TOPIC SENTENCE]
@@ -28,9 +33,9 @@ Identify potential areas for future research in the context of this [TOPIC SENTE
 Suggest novel applications of [TOPIC SENTENCE] within [RESEARCH DOMAIN]
 ```
 
-# ARTICLE SECTIONS
+## ARTICLE SECTIONS
 
-## Title/Topic Sentence
+### Title/Topic Sentence
 
 ```
 Suggest 5 titles for the following abstract: [ABSTRACT PARAGRAPH]
@@ -40,19 +45,19 @@ Suggest 5 titles for the following abstract: [ABSTRACT PARAGRAPH]
 Write a topic sentences for this paragraph: [PARAGRAPH] 
 ```
 
-## Keywords
+### Keywords
 
 ```
 Provide 5 keywords for this: [PARAGRAPHS]
 ```
 
-## Abstract
+### Abstract
 
 ```
 Generate an abstract for a scientific paper based on this information for: [PARAPGRAPHS]
 ```
 
-## Outline
+### Outline
 
 ```
 Generate an outline for [TOPIC SENTENCE]
@@ -62,13 +67,13 @@ Generate an outline for [TOPIC SENTENCE]
 I want to write a journal article about [TOPIC SENTENCE]. give me an outline for the article that I can use as a starting point.
 ```
 
-## Introduction
+### Introduction
 
 ```
 Come up with an introduction for the following research topic: [TOPIC SENTENCE]
 ```
 
-## Literature Review
+### Literature Review
 
 ```
 Conduct a literature review on [TOPIC SENTENCE] and provide review paper references
@@ -90,7 +95,7 @@ Write this in standart Harvard referencing [PARAGRAPH]
 Compare and contrast [THEORY1] and [THEORY2] in the context of [DOMAIN]:
 ```
 
-## Methodology
+### Methodology
 
 ```
 Create objectives and methodology for [TOPIC SENTENCE]
@@ -128,25 +133,25 @@ Explain how qualitative/quantitative research methods can be used to address [RE
 Recommend best practices for data collection and analysis in [TOPIC SENTENCE]
 ```
 
-## Experiments
+### Experiments
 
 ```
 Design an experiment that [ACTION]
 ```
 
-## Results
+### Results
 
 ```
 Write a result section for the following paragraphs. Please write this in third person. [PARAGRAPHS]
 ```
 
-## Discussion
+### Discussion
 
 ```
 Discuss this results: [RESULT PARAPGRAHS]
 ```
 
-## Conclusion
+### Conclusion
 
 ```
 Generate a conclusion for this: [PARAGRAPHS]
@@ -156,13 +161,13 @@ Generate a conclusion for this: [PARAGRAPHS]
 Give recommendations and conclusion for: [PARAPGRAPHS]
 ```
 
-## Future Works
+### Future Works
 
 ```
 Can you suggest 3 directions for future research on this topic: [PARAGRAPH]]?
 ```
 
-# IMPROVING LANGUAGE
+## IMPROVING LANGUAGE
 
 ```
 Rewrite his paragraph in an academic langauge: [PARAGRAPH]
@@ -264,7 +269,7 @@ Act as a language expert, proofread my paper on [TOPIC SENTENCE] while putting a
 In the context of [RESEARCH DOMAIN] translate [PARAPGRAPH] into the [LANGUAGE] language.
 ```
 
-## SUMMARIZATION
+### SUMMARIZATION
 
 ```
 Summarize the following content: [PARAPGRAPHS]
@@ -310,7 +315,7 @@ Explain this research to a 12 year old: [PARAGRAPHS]
 Identify the key findings and implications of this: [PARAGRAPHS]
 ```
 
-# PLAN/PRESENTATION
+## PLAN/PRESENTATION
 
 ```
 Develop a research plan for: [TOPIC SENTENCE]
