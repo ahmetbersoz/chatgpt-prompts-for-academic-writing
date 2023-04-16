@@ -1,4 +1,4 @@
-## BRAINSTORMING
+# BRAINSTORMING
 
 ```
 Find a research topic for a PhD in the area of [TOPIC]
@@ -28,9 +28,9 @@ Identify potential areas for future research in the context of this [TOPIC SENTE
 Suggest novel applications of [TOPIC SENTENCE] within [RESEARCH DOMAIN]
 ```
 
-# SECTIONS
+# ARTICLE SECTIONS
 
-## TITLE/TOPIC SENTENCE
+## Title/Topic Sentence
 
 ```
 Suggest 5 titles for the following abstract: [ABSTRACT PARAGRAPH]
@@ -40,21 +40,19 @@ Suggest 5 titles for the following abstract: [ABSTRACT PARAGRAPH]
 Write a topic sentences for this paragraph: [PARAGRAPH] 
 ```
 
-## KEYWORDS
+## Keywords
 
 ```
 Provide 5 keywords for this: [PARAGRAPHS]
 ```
 
-
-## ABSTRACT 
+## Abstract
 
 ```
 Generate an abstract for a scientific paper based on this information for: [PARAPGRAPHS]
 ```
 
-
-## OUTLINE
+## Outline
 
 ```
 Generate an outline for [TOPIC SENTENCE]
@@ -64,13 +62,13 @@ Generate an outline for [TOPIC SENTENCE]
 I want to write a journal article about [TOPIC SENTENCE]. give me an outline for the article that I can use as a starting point.
 ```
 
-## INTRODUCTION
+## Introduction
 
 ```
 Come up with an introduction for the following research topic: [TOPIC SENTENCE]
 ```
 
-## LITERATURE REVIEW
+## Literature Review
 
 ```
 Conduct a literature review on [TOPIC SENTENCE] and provide review paper references
@@ -92,7 +90,7 @@ Write this in standart Harvard referencing [PARAGRAPH]
 Compare and contrast [THEORY1] and [THEORY2] in the context of [DOMAIN]:
 ```
 
-## METHODOLOGY
+## Methodology
 
 ```
 Create objectives and methodology for [TOPIC SENTENCE]
@@ -130,25 +128,25 @@ Explain how qualitative/quantitative research methods can be used to address [RE
 Recommend best practices for data collection and analysis in [TOPIC SENTENCE]
 ```
 
-## EXPERIMENT
+## Experiments
 
 ```
 Design an experiment that [ACTION]
 ```
 
-## RESULTS
+## Results
 
 ```
 Write a result section for the following paragraphs. Please write this in third person. [PARAGRAPHS]
 ```
 
-## DISCUSSION
+## Discussion
 
 ```
 Discuss this results: [RESULT PARAPGRAHS]
 ```
 
-## CONCLUSION
+## Conclusion
 
 ```
 Generate a conclusion for this: [PARAGRAPHS]
@@ -158,12 +156,11 @@ Generate a conclusion for this: [PARAGRAPHS]
 Give recommendations and conclusion for: [PARAPGRAPHS]
 ```
 
-## FUTURE WORKS
+## Future Works
 
 ```
 Can you suggest 3 directions for future research on this topic: [PARAGRAPH]]?
 ```
-
 
 # IMPROVING LANGUAGE
 
@@ -314,8 +311,6 @@ Identify the key findings and implications of this: [PARAGRAPHS]
 ```
 
 # PLAN/PRESENTATION
-
-## SCHEDULE
 
 ```
 Develop a research plan for: [TOPIC SENTENCE]
