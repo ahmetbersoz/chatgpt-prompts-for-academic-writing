@@ -101,6 +101,10 @@ Write this in standart Harvard referencing [PARAGRAPH]
 ```
 
 ```
+Convert this [BIBLIOGRAPHY] from MLA to APA style.
+```
+
+```
 Compare and contrast [THEORY1] and [THEORY2] in the context of [RESEARCH DOMAIN]:
 ```
 
@@ -322,6 +326,18 @@ Explain this research to a 12 year old: [PARAGRAPHS]
 
 ```
 Identify the key findings and implications of this: [PARAGRAPHS]
+```
+
+```
+Remove throat-clearing sentence from this paragraph: [PARAGRAPH]
+```
+
+```
+Frontload the argument in the following paragraph: [PARAGRAPH]
+```
+
+```
+Explain [TOPIC] as an analogy
 ```
 
 ## PLAN/PRESENTATION
