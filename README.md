@@ -183,7 +183,7 @@ Can you suggest 3 directions for future research on this topic: [PARAGRAPH]]?
 ## IMPROVING LANGUAGE
 
 ```
-Rewrite his paragraph in an academic langauge: [PARAGRAPH]
+Rewrite his paragraph in an academic language: [PARAGRAPH]
 ```
 
 ```
