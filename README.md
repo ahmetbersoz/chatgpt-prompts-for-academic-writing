@@ -49,7 +49,7 @@ Suggest 5 titles for the following abstract: [ABSTRACT PARAGRAPH]
 ```
 
 ```
-Write a topic sentences for this paragraph: [PARAGRAPH] 
+Write a topic sentence for this paragraph: [PARAGRAPH] 
 ```
 
 ### Keywords
@@ -97,7 +97,7 @@ Summarize the scholarly literature including in text citations on [PARAGRAPHS]
 ```
 
 ```
-Write this in standart Harvard referencing [PARAGRAPH]
+Write this in standard Harvard referencing [PARAGRAPH]
 ```
 
 ```
@@ -131,7 +131,7 @@ What are the limitations of using [TOPIC SENTENCE] in [RESEARCH DOMAIN]?
 ```
 
 ```
-Create a recipie for the methods used in this [PARAGRAPHS]
+Create a recipe for the methods used in this [PARAGRAPHS]
 ```
 
 ```
@@ -161,7 +161,7 @@ Write a result section for the following paragraphs. Please write this in third 
 ### Discussion
 
 ```
-Discuss this results: [RESULT PARAGRAPHS]
+Discuss these results: [RESULT PARAGRAPHS]
 ```
 
 ### Conclusion
@@ -195,7 +195,7 @@ Correct the grammar: [PARAGRAPH]
 ```
 
 ```
-What do you think of how this parapraph is written?:  [PARAGRAPH]
+What do you think of how this paragraph is written?:  [PARAGRAPH]
 ```
 
 ```
