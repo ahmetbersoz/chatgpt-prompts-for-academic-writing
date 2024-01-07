@@ -282,6 +282,10 @@ Act as a language expert, proofread my paper on [TOPIC SENTENCE] while putting a
 In the context of [RESEARCH DOMAIN] translate [PARAPGRAPH] into the [LANGUAGE] language.
 ```
 
+```
+Proofread the following text for spelling and grammatical errors, and rewrite it with corrections. [PARAGRAPHS] 
+```
+
 ### SUMMARIZATION
 
 ```
