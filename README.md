@@ -10,7 +10,9 @@ The list is regularly updated, so you can keep track of new prompts by following
 
 > **TIPS:** As there is a limit to the number of words that can be used in ChatGPT, you can input your text multiple times using the prompt "Read this [PARAPGRAPH]:" and then run your final prompt "Considering the above text...".
 
-## BRAINSTORMING
+You can also use prompts splitter: [chatgpt-prompt-splitter.jjdiaz.dev](https://chatgpt-prompt-splitter.jjdiaz.dev/)
+
+## BRAINSTORMIN
 
 ```
 Find a research topic for a PhD in the area of [TOPIC]
