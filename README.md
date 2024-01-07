@@ -371,3 +371,30 @@ Make this more persuasive: [PARAGRAPH]
 ```
 Write 3 tweets about this research? [PARAGRAPHS]
 ```
+
+## WORKING WITH DOCUMENTS (AVAILABLE ONLY IN GPT-4)
+
+Upload a PDF file of a paper then:
+```
+Summarize the paper and extract key points.
+```
+
+Upload a PDF file of your paper then:
+```
+Provide feedback on this article draft.
+```
+
+Upload PDF files of papers then:
+```
+Considering these documents, write a literature review in paragraphs that include in-text references of the documents in APA format.
+```
+
+Upload a figure image then:
+```
+Explain the figure.
+```
+
+
+
+
+
