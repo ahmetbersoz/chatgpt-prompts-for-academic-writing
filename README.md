@@ -73,7 +73,7 @@ Generate an outline for [TOPIC SENTENCE]
 ```
 
 ```
-I want to write a journal article about [TOPIC SENTENCE]. give me an outline for the article that I can use as a starting point.
+I want to write a journal article about [TOPIC SENTENCE]. Give me an outline for the article that I can use as a starting point.
 ```
 
 ### Introduction
@@ -92,10 +92,10 @@ Conduct a literature review on [TOPIC SENTENCE] and provide review paper referen
 Provide me with references and links to papers in [PARAPGRAPH]
 ```
 
-> **NOTE:** Be careful and double check article existence, ChatGPT may generate fake references
+> **NOTE:** Be careful and double-check article existence. ChatGPT may generate fake references
 
 ```
-Summarize the scholarly literature including in text citations on [PARAGRAPHS]
+Summarize the scholarly literature, including in text citations on [PARAGRAPHS]
 ```
 
 ```
@@ -157,7 +157,7 @@ Design an experiment that [ACTION]
 ### Results
 
 ```
-Write a result section for the following paragraphs. Please write this in third person. [PARAGRAPHS]
+Write a result section for the following paragraphs. Please write this in the third person. [PARAGRAPHS]
 ```
 
 ### Discussion
@@ -225,7 +225,7 @@ Can you improve this paragraph using passive voice: [PARAGRAPH]
 ```
 
 ```
-Can you improve this paragraph to make it more cohesive: [PARAGRAPH]
+Can you improve this paragraph to make it more cohesive? [PARAGRAPH]
 ```
 
 ```
@@ -249,7 +249,7 @@ Provide effective transitions between paragraphs [PARAGRAPH1] [PARAGRAPH2]
 ```
 
 ```
-Rewrite this paragraph as a introduction: [PARAGRAPH]
+Rewrite this paragraph as an introduction: [PARAGRAPH]
 ```
 
 ```
@@ -285,7 +285,7 @@ In the context of [RESEARCH DOMAIN] translate [PARAPGRAPH] into the [LANGUAGE] l
 ```
 
 ```
-Proofread the following text for spelling and grammatical errors, and rewrite it with corrections. [PARAGRAPHS] 
+Proofread the following text for spelling and grammatical errors and rewrite it with corrections. [PARAGRAPHS] 
 ```
 
 ### SUMMARIZATION
@@ -335,7 +335,7 @@ Identify the key findings and implications of this: [PARAGRAPHS]
 ```
 
 ```
-Remove throat-clearing sentence from this paragraph: [PARAGRAPH]
+Remove the throat-clearing sentence from this paragraph: [PARAGRAPH]
 ```
 
 ```
@@ -357,7 +357,7 @@ Write a schedule for completion in [TOPIC SENTENCE] in [NUMBER OF DAYS/MONTHS/YE
 ```
 
 ```
-The deadline for the submission of first draft is [DATE]. give me a week-by-week breakdown so I can plan my writing better.
+The deadline for the submission of the first draft is [DATE]. give me a week-by-week breakdown so I can plan my writing better.
 ```
 
 ```
@@ -369,7 +369,7 @@ Make this more persuasive: [PARAGRAPH]
 ```
 
 ```
-Write 3 tweets about this research? [PARAGRAPHS]
+Write 3 tweets about this research. [PARAGRAPHS]
 ```
 
 ## WORKING WITH DOCUMENTS (AVAILABLE ONLY IN GPT-4)
