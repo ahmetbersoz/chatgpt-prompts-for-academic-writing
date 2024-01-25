@@ -1,8 +1,19 @@
-![Cover image](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing/blob/main/cover.jpg)
+✨ **NEW UPDATE: Literature Review Generator**
+
+A Custom GPT for Literature Review Generator has been released. It efficiently parses PDF files of research publications, extracts key themes, and creates a literature review section for your academic publications.
+
+![customgpt](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing/assets/5254173/b36b7516-39ff-4752-be61-7b364db6d9dd)
+
+TRY NOW: https://chat.openai.com/g/g-G3U8pZGwC-literature-review-generator
+
+***
+
+<!--- ![Cover image](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing/blob/main/cover.jpg) --->
+
 
 # ChatGPT Prompts for Academic Writing
 
-This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. Whether you're a student, researcher, or academic professional, these prompts can help you hone your writing abilities and tackle your writing projects with confidence. 
+In this repository, this list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans. Whether you're a student, researcher, or academic professional, these prompts can help you hone your writing abilities and tackle your writing projects with confidence. 
 
 Use directly in: [chat.openai.com](https://chat.openai.com)
 
